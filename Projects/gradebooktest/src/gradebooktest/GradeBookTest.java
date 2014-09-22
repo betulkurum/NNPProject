@@ -9,7 +9,7 @@ package gradebooktest;
 import java.util.*;
 /**
  *
- * @author aikyerim
+ * @author asauletkhan
  */
 public class GradeBookTest {
 
@@ -28,6 +28,7 @@ public class GradeBookTest {
         System.out.println();
         
         mygradebook.displayit();
+        mygradebook.classav();
         
     }
     
