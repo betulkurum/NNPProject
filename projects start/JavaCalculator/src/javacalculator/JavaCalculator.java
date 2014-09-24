@@ -1,5 +1,5 @@
 /*
- * Java Calculator
+ * Java Forked Calculator
  */
 
 package javacalculator;
